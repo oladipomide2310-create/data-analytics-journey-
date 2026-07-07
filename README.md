@@ -15,20 +15,15 @@ I am currently learning Data Analytics and documenting my progress here.
 - Data Visualization
 
 ## Progress Log
+01_SELECT.sql
+02_WHERE.sql
+03_GROUP BY & ORDER BY.sql
+04_HAVING vs WHERE.sql
+05_LIMIT & ALIASING.sql
+06_JOINS.sql
 
-### Day 1 - SQL SELECT Statement
 
-Today I learned:
-- SELECT
-- SELECT *
-- Selecting specific columns
-- Aliases
 
-Example:
-
-```sql
-SELECT first_name, last_name
-FROM parks_and_recreation.employee_demographics;
 
 
 ccourse Alex the Analyst SQL Tutorial 
